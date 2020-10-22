@@ -3,7 +3,7 @@
 </h1>
 <div>
     <img title="happy" alt="happy" src="https://user-images.githubusercontent.com/45858897/96938586-26500280-14a1-11eb-9fc1-09d40933909d.png")/>
-    <img title="mapHappy" alt="mapHappy" width="250" src="https://user-images.githubusercontent.com/45858897/96939836-8bf1be00-14a4-11eb-9f8a-3764dbfeef19.png")/>
+    <img title="mapHappy" alt="mapHappy" src="https://user-images.githubusercontent.com/45858897/96939836-8bf1be00-14a4-11eb-9f8a-3764dbfeef19.png")/>
 </div>
 <hr/>
 
