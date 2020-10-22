@@ -1,7 +1,7 @@
 <h1 align="center">
     Happy<hr/>  
 </h1>
-![home](https://user-images.githubusercontent.com/45858897/96938586-26500280-14a1-11eb-9fc1-09d40933909d.png)
+<img title="happy" alt="happy" src="https://user-images.githubusercontent.com/45858897/96938586-26500280-14a1-11eb-9fc1-09d40933909d.png")/>
 <hr/>
 
 
