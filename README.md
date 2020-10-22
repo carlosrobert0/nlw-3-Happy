@@ -1,9 +1,9 @@
 <h1 align="center">
     <h2>Happy</h2> <hr/>  
-    [web]!(https://github.com/carlosrobert0/nlw-3-Happy/issues/1#issue-727747914)
+    ![web](https://github.com/carlosrobert0/nlw-3-Happy/issues/1#issue-727747914)
 </h1>
 <hr/>
-## 🚀 Tecnologias
+🚀 <b>Tecnologias</b>
 
 ## Esse projeto foi desenvolvido com as seguintes tecnologias:
 
