@@ -1,8 +1,10 @@
 <h1 align="center">
     Happy<hr/>  
 </h1>
-<img title="happy" alt="happy" width="600" style="display: inline" src="https://user-images.githubusercontent.com/45858897/96938586-26500280-14a1-11eb-9fc1-09d40933909d.png")>
-<img title="mapHappy" alt="mapHappy" style="display: inline" src="https://user-images.githubusercontent.com/45858897/96939836-8bf1be00-14a4-11eb-9f8a-3764dbfeef19.png")/>
+<div>
+    <img title="happy" alt="happy"  width="700" src="https://user-images.githubusercontent.com/45858897/96938586-26500280-14a1-11eb-9fc1-09d40933909d.png")>
+    <img title="mapHappy" alt="mapHappy" style="display: inline" src="https://user-images.githubusercontent.com/45858897/96939836-8bf1be00-14a4-11eb-9f8a-3764dbfeef19.png")/>
+</div>
 <hr/>
 
 
