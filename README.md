@@ -1,11 +1,11 @@
 <h1 align="center">
-    <h2>Happy</h2> <hr/>  
-    ![web](https://github.com/carlosrobert0/nlw-3-Happy/issues/1#issue-727747914)
+    Happy<hr/>  
+    ![home](https://user-images.githubusercontent.com/45858897/96934541-c0f81380-1498-11eb-8026-b8dd81fc5573.png)
 </h1>
 <hr/>
-🚀 <b>Tecnologias</b>
 
-## Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+## Esse projeto foi desenvolvido com as seguintes 🚀 Tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
