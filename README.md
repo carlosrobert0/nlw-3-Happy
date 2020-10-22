@@ -1,6 +1,6 @@
 <h1 align="center">
     <h2>Happy</h2> <hr/>  
-    ![home](https://user-images.githubusercontent.com/45858897/96934541-c0f81380-1498-11eb-8026-b8dd81fc5573.png)
+    [web#1]!(https://github.com/carlosrobert0/nlw-3-Happy/issues/1#issue-727747914)
 </h1>
 <hr/>
 🚀 Tecnologias
@@ -25,53 +25,53 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### 🎲 Rodando o Back End (servidor)
 
-# Clone este repositório
+Clone este repositório
 $ git clone <https://github.com/carlosrobert0/nlw-3-Happy>
 
-# Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd backend
 
-# Instale as dependências
+Instale as dependências
 $ npm install ou yarn
 
-# Execute a aplicação em modo de desenvolvimento
+Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server ou yarn dev:server
 
-# O servidor inciará na porta:3333 - <http://localhost:3333>
+<i>O servidor inciará na porta:3333 - <http://localhost:3333></i>
 
 ### 🌟 Rodando o Front End (web)
 
-# Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd frontend
 
-# Instale as dependências
+Instale as dependências
 $ npm install ou yarn
 
-# Execute a aplicação em modo de desenvolvimento
+Execute a aplicação em modo de desenvolvimento
 $ npm start ou yarn start
 
-# O cliente inciará na porta:3000 - <http://localhost:3000>
+<i>O cliente inciará na porta:3000 - <http://localhost:3000></i>
 
 ### 🌟 Rodando o Aplicativo mobile (mobile)
 
-# Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd mobile
 
-# Instale as dependências
+Instale as dependências
 $ npm install ou yarn
 
-# Execute a aplicação em modo de desenvolvimento
+Execute a aplicação em modo de desenvolvimento
 $ npm start ou yarn start
 para iniciar o metro blunder
 
-# Abrirá uma janela em seu navegador apos o yarn start ou npm start
+Abrirá uma janela em seu navegador apos o yarn start ou npm start
 Essa janela Terá um QR Code na qual 
 vamos direcionar a camera no Aplicativo Expo Client, e Plim 🌟 o aplicativo iniciará !
 
-# você deve baixar o aplicativo Expo Client na Play ou Apple Store
+você deve baixar o aplicativo Expo Client na Play ou Apple Store
 Na pagina aberta no navegador, em cima no QR Code, tera um endereço IP 
 esse IP vamos atribuir no baseURL substituindo pelo localhost no caminho
-# web/src/services/api
+web/src/services/api
 E na parte de imagens vamos tambem atribuir esse mesmo IP 
 
 
